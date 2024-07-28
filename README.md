@@ -37,7 +37,7 @@ Output function:
 emitString = output<string>();
 
 Example can be found in (required, optional, optional with multiple values)
-user.component.ts
+<a href="https://github.com/RamadossE2313/learning-angular-18/blob/master/src/app/user/user.component.ts">User Component</a>
 
 For:
 For loop newly
@@ -74,4 +74,4 @@ If you want to use ngfor/ngIf we should import below
 })
 export class AppComponent {}
 
-Example: app.component.ts
+Example: <a href="https://github.com/RamadossE2313/learning-angular-18/blob/master/src/app/app.component.ts">App component</a>
