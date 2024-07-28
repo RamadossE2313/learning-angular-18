@@ -30,6 +30,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 Introduced in angular 17
 
+Standalone Component:
+
+<a href="https://github.com/RamadossE2313/learning-angular-18/blob/master/src/app/app.component.ts">App Component</a>
+</br>
 Input function: 
 userName = input.required<string>()
 
